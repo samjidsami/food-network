@@ -14,6 +14,7 @@ h3{
 }
 section{
     display: flex;
+    margin-bottom: 70PX;
     
 }
 .half-width{
@@ -39,6 +40,25 @@ text-decoration: none;
     text-align: center;
 }
 .different{
+    text-align: center;
+}
+.most{
+    margin-bottom: 70px;
+}
+.famous{
+    width: 30%;
+    border:20px solid white;
+    border-radius: 10px;
+    margin: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.famous img{
+    width: 100%;
+    border-radius: 10px;
+    
+}
+.network{
     text-align: center;
 }
 
